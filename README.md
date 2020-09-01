@@ -2,7 +2,7 @@
 <h1 align="center">Hiiii ~ , Welcome 2 Cayman's nameless GitHub profile. 👋</h1>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/years/CaymanHK" /><img src="https://badges.pufler.dev/repos/CaymanHK" /><img src="https://badges.pufler.dev/commits/monthly/CaymanHK" />
+  <img src="https://badges.pufler.dev/years/CaymanHK" />&nbsp;&nbsp;&nbsp;<img src="https://badges.pufler.dev/repos/CaymanHK" />&nbsp;&nbsp;&nbsp;<img src="https://badges.pufler.dev/commits/monthly/CaymanHK" />
 </p>
 
 <br />
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CaymanHK&count_private=true&show_icons=true&theme=onedark" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CaymanHK&count_private=true&show_icons=true&theme=onedark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  </p>
 </div>
 
 <br />
- ‍
 <h3 align="center">My POOR Skills</h3>
 
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
