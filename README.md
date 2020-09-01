@@ -1,4 +1,4 @@
-
+<br />
 <h1 align="center">Hiiii ~ , Welcome 2 Cayman's nameless GitHub profile. 👋</h1>
 
 <p align="center">
@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning Computer Vision.
 - 🤔 [HERE](https://nolinkyet) you can visit my Blog.
 - 📫 You can contact me with this [Email](https://nolinkyet).
-
- ‍
 
 <!--
 **CaymanHK/CaymanHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,13 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CaymanHK&count_private=true&show_icons=true&theme=onedark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  </p>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=CaymanHK&count_private=true&show_icons=true&theme=onedark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-<br />
 <h3 align="center">My POOR Skills</h3>
 
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
